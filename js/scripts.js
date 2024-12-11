@@ -16,7 +16,7 @@ function loadApartments() {
 
   // Criação inicial dos apartamentos
   const apartamentos = [];
-  let andar = 5; // Começa no andar 5
+  let andar = 1; // Começa no andar 5
   let numeroPorAndar = 5; // Quantidade de apartamentos por andar
 
   for (let i = 0; i < 70; i++) {
